@@ -37,14 +37,14 @@ public class DrawCakeWithForApp {
                             System.out.print("~");
                         }
                     System.out.println();
-                case BASE:
-                    for (int lines = 1; lines <= 3; lines++) {
-                        for (int elements = 1; elements <= 11; elements++) {
-                            System.out.print("#");
-                        }
-                        System.out.println();
-                    }
-                    break;
+//                case BASE:
+//                    for (int lines = 1; lines <= 3; lines++) {
+//                        for (int elements = 1; elements <= 11; elements++) {
+//                            System.out.print("#");
+//                        }
+//                        System.out.println();
+//                    }
+//                    break;
                 }
             }
         }
