@@ -7,7 +7,7 @@ public class DrawCakeWithForApp {
         final int FIRE = 2;
         final int CANDLE = 3;
         final int CREAM = 4;
-        final int BASE = 5;
+       // final int BASE = 5;
 
 
         for (int level = 1; level < 5; level++) {
