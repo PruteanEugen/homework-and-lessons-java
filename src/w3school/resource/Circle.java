@@ -6,7 +6,7 @@ public class Circle {
     private double radius;
 
     public static void main(String[] args) {
-        Circle circle = new Circle(2.0);
+        Circle circle = new Circle(4.0);
         System.out.println(circle.calculateArea());
         System.out.println(circle.calculateCircumference());
     }
